@@ -1,0 +1,22 @@
+#navIcon 
+{
+    
+    width: 30px;
+    display: inline-block;
+    padding: 15px;
+    
+}
+
+.justify-left
+{
+
+    text-align: left;
+
+}
+
+.justify-right
+{
+
+    text-align: right;
+
+}
